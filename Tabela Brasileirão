@@ -1,0 +1,333 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="tabela.css">
+    <title>Document</title>
+</head>
+<body>
+    <h1>Tabela do Brasilerão</h1>
+    <table>
+        <tr>
+        <td></td>
+        <td style="width: 200px;"></td>
+        <td>P</td>
+        <td>J</td>
+        <td>V</td>
+        <td>E</td>
+        <td>D</td>
+        <td>GP</td>
+        <td>GC</td>
+        <td>SC</td>
+        <td>%</td>
+    </tr>
+    <tr>
+        <td style="color: rgb(0, 33, 143); font-size: 25px; font-weight: bold;">1</td>
+        <td>Corinthians</td>
+        <td style="background-color: rgb(238, 238, 238);"><strong>17</strong></td>
+        <td>7</td>
+        <td style="background-color: rgb(238, 238, 238);">5</td>
+        <td>2</td>
+        <td style="background-color: rgb(238, 238, 238);">0</td>
+        <td>15</td>
+        <td style="background-color: rgb(238, 238, 238);" >8</td>
+        <td>7</td>
+        <td style="background-color: rgb(238, 238, 238);">81</td>
+    </tr>
+    
+    <tr>
+        <td style="color: rgb(0, 33, 143);font-size: 25px; font-weight: bold">2</td>
+        <td>Ceará</td>
+        <td style="background-color: rgb(238, 238, 238);"><strong>17</strong></td>
+        <td>7</td>
+        <td style="background-color: rgb(238, 238, 238);">5</td>
+        <td>2</td>
+        <td style="background-color: rgb(238, 238, 238);">0</td>
+        <td>7</td>
+        <td style="background-color: rgb(238, 238, 238);">1</td>
+        <td>6</td>
+        <td style="background-color: rgb(238, 238, 238);">81</td>
+    </tr>
+
+
+    <tr>
+        <td style="color: rgb(0, 33, 143);font-size: 25px; font-weight: bold">3</td>
+        <td>Fluminense</td>
+        <td style="background-color: rgb(238, 238, 238);"><strong>15</strong></td>
+        <td>7</td>
+        <td style="background-color: rgb(238, 238, 238);">5</td>
+        <td>0</td>
+        <td style="background-color: rgb(238, 238, 238);">2</td>
+        <td>11</td>
+        <td style="background-color: rgb(238, 238, 238);">5</td>
+        <td>6</td>
+        <td style="background-color: rgb(238, 238, 238);">71.4</td>
+    </tr>
+
+    <tr>
+        <td style="color: rgb(6, 154, 253); font-size: 25px; font-weight: bold">4</td>
+        <td>Santos</td>
+        <td style="background-color: rgb(238, 238, 238);"><strong>12</strong></td>
+        <td>7</td>
+        <td style="background-color: rgb(238, 238, 238);">3</td>
+        <td>3</td>
+        <td style="background-color: rgb(238, 238, 238);">1</td>
+        <td>15</td>
+        <td style="background-color: rgb(238, 238, 238);">10</td>
+        <td>5</td>
+        <td style="background-color: rgb(238, 238, 238);">57.1</td>
+    </tr>
+
+    <tr>
+        <td style="color: orange;font-size: 25px; font-weight: bold">5</td>
+        <td>São Paulo</td>
+        <td style="background-color: rgb(238, 238, 238);"><strong>11</strong></td>
+        <td>7</td>
+        <td style="background-color: rgb(238, 238, 238);">3</td>
+        <td>2</td>
+        <td style="background-color: rgb(238, 238, 238);">2</td>
+        <td>9</td>
+        <td style="background-color: rgb(238, 238, 238);">6</td>
+        <td>3</td>
+        <td style="background-color: rgb(238, 238, 238);">52.4</td>
+    </tr>
+
+
+    <tr>
+        <td style="color: orange; font-size: 25px; font-weight: bold">6</td>
+        <td>Goiás</td>
+        <td style="background-color: rgb(238, 238, 238);"><strong>10</strong></td>
+        <td >7</td>
+        <td style="background-color: rgb(238, 238, 238);">3</td>
+        <td>1</td>
+        <td style="background-color: rgb(238, 238, 238);">3</td>
+        <td>9</td>
+        <td style="background-color: rgb(238, 238, 238);">10</td>
+        <td>-1</td>
+        <td style="background-color: rgb(238, 238, 238);">47.6</td>
+    </tr>
+
+
+    <tr>
+        <td style="color: orange; font-size: 25px; font-weight: bold">7</td>
+        <td>Botafogo</td>
+        <td style="background-color: rgb(238, 238, 238);"><strong>9</strong></td>
+        <td>7</td>
+        <td style="background-color: rgb(238, 238, 238);">2</td>
+        <td>3</td>
+        <td style="background-color: rgb(238, 238, 238);">2</td>
+        <td>9</td>
+        <td style="background-color: rgb(238, 238, 238);">8</td>
+        <td>1</td>
+        <td style="background-color: rgb(238, 238, 238);">42.9</td>
+    </tr>
+
+    <tr>
+        <td style="color: orange; font-size: 25px; font-weight: bold">8</td>
+        <td>Flamengo</td>
+        <td style="background-color: rgb(238, 238, 238);"><strong>9</strong></td>
+        <td>7</td>
+        <td style="background-color: rgb(238, 238, 238);">2</td>
+        <td>3</td>
+        <td style="background-color: rgb(238, 238, 238);">2</td>
+        <td>9</td>
+        <td style="background-color: rgb(238, 238, 238);">8</td>
+        <td>1</td>
+        <td style="background-color: rgb(238, 238, 238);">42.9</td>
+    </tr>
+
+
+    <tr>
+        <td style="color: orange; font-size: 25px; font-weight: bold">9</td>
+        <td>Cruzeiro</td>
+        <td style="background-color: rgb(238, 238, 238);"><strong>9</strong></td>
+        <td>6</td>
+        <td style="background-color: rgb(238, 238, 238);">2</td>
+        <td>3</td>
+        <td style="background-color: rgb(238, 238, 238);">1</td>
+        <td>7</td>
+        <td style="background-color: rgb(238, 238, 238);">6</td>
+        <td>1</td>
+        <td style="background-color: rgb(238, 238, 238);">50</td>
+    </tr>
+
+
+    <tr>
+        <td style="color: orange; font-size: 25px; font-weight: bold">10</td>
+        <td>Guarani</td>
+        <td style="background-color: rgb(238, 238, 238);"><strong>9</strong></td>
+        <td>6</td>
+        <td style="background-color: rgb(238, 238, 238);">2</td>
+        <td>3</td>
+        <td style="background-color: rgb(238, 238, 238);">1</td>
+        <td>7</td>
+        <td style="background-color: rgb(238, 238, 238);">7</td>
+        <td>0</td>
+        <td style="background-color: rgb(238, 238, 238);">50</td>
+    </tr>
+
+
+
+    <tr>
+        <td style="color: orange; font-size: 25px; font-weight: bold">11</td>
+        <td>Palmeiras</td>
+        <td style="background-color: rgb(238, 238, 238);"><strong>8</strong></td>
+        <td>6</td>
+        <td style="background-color: rgb(238, 238, 238);">2</td>
+        <td>2</td>
+        <td style="background-color: rgb(238, 238, 238);">2</td>
+        <td>5</td>
+        <td style="background-color: rgb(238, 238, 238);">4</td>
+        <td>1</td>
+        <td style="background-color: rgb(238, 238, 238);">44.4</td>
+    </tr>
+
+    <tr>
+        <td style="color: orange; font-size: 25px; font-weight: bold"> <strong>12</strong></td>
+        <td>Grêmio</td>
+        <td style="background-color: rgb(238, 238, 238);"><strong>8</strong></td>
+        <td>7</td>
+        <td style="background-color: rgb(238, 238, 238);">2</td>
+        <td>2</td>
+        <td style="background-color: rgb(238, 238, 238);">3</td>
+        <td>10</td>
+        <td style="background-color: rgb(238, 238, 238);">11</td>
+        <td>-1</td>
+        <td style="background-color: rgb(238, 238, 238);">38.1</td>
+    </tr>
+
+    <tr>
+        <td style="color: rgb(182, 182, 182); font-weight: bold; font-size: 25px">13</td>
+        <td>Avaí</td>
+        <td style="background-color: rgb(238, 238, 238);"><strong>8</strong></td>
+        <td>7</td>
+        <td style="background-color: rgb(238, 238, 238);">2</td>
+        <td>2</td>
+        <td style="background-color: rgb(238, 238, 238);">3</td>
+        <td>10</td>
+        <td style="background-color: rgb(238, 238, 238);">11</td>
+        <td>-1</td>
+        <td style="background-color: rgb(238, 238, 238);">38.1</td>
+    </tr>
+
+    <tr>
+        <td style="color: rgb(182, 182, 182); font-weight: bold; font-size: 25px;">14</td>
+        <td>Vitória</td>
+        <td style="background-color: rgb(238, 238, 238);"><strong>8</strong></td>
+        <td>7</td>
+        <td style="background-color: rgb(238, 238, 238);">2</td>
+        <td>2</td>
+        <td style="background-color: rgb(238, 238, 238);">3</td>
+        <td>7</td>
+        <td style="background-color: rgb(238, 238, 238);">8</td>
+        <td>-1</td>
+        <td style="background-color: rgb(238, 238, 238);">38.1</td>
+    </tr>
+
+    <tr>
+        <td style="color: rgb(182, 182, 182); font-weight: bold; font-size: 25px">15</td>
+        <td>Prudente</td>
+        <td style="background-color: rgb(238, 238, 238);"><strong>8</strong></td>
+        <td>6</td>
+        <td style="background-color: rgb(238, 238, 238);">2</td>
+        <td>2</td>
+        <td style="background-color: rgb(238, 238, 238);">2</td>
+        <td>9</td>
+        <td style="background-color: rgb(238, 238, 238);">11</td>
+        <td>-2</td>
+        <td style="background-color: rgb(238, 238, 238);">44.4</td>
+    </tr>
+
+    <tr>
+        <td style="color: rgb(182, 182, 182); font-weight: bold; font-size: 25px">16</td>
+        <td>Atlético-PR</td>
+        <td style="background-color: rgb(238, 238, 238);"><strong>7</strong></td>
+        <td>7</td>
+        <td style="background-color: rgb(238, 238, 238);">2</td>
+        <td>1</td>
+        <td style="background-color: rgb(238, 238, 238);">4</td>
+        <td>10</td>
+        <td style="background-color: rgb(238, 238, 238);">15</td>
+        <td>-5</td>
+        <td style="background-color: rgb(238, 238, 238);">33.3</td>
+    </tr>
+
+    <tr >
+        <td style="color: red; font-weight: bold; font-size: 25px">17</td>
+        <td>Internaconal</td>
+        <td style="background-color: rgb(238, 238, 238);"><strong>6</strong></td>
+        <td>6</td>
+        <td style="background-color: rgb(238, 238, 238);">2</td>
+        <td>0</td>
+        <td style="background-color: rgb(238, 238, 238);">4</td>
+        <td>10</td>
+        <td style="background-color: rgb(238, 238, 238);">12</td>
+        <td>-2</td>
+        <td style="background-color: rgb(238, 238, 238);">33.3</td>
+    </tr>
+
+    <tr>
+        <td style="color: red; font-weight: bold; font-size: 25px">18</td>
+        <td>Atlético-MG</td>
+        <td style="background-color: rgb(238, 238, 238);"><strong>6</strong></td>
+        <td>7</td>
+        <td style="background-color: rgb(238, 238, 238);">2</td>
+        <td>0</td>
+        <td style="background-color: rgb(238, 238, 238);">5</td>
+        <td>10</td>
+        <td style="background-color: rgb(238, 238, 238);">16</td>
+        <td>-6</td>
+        <td style="background-color: rgb(238, 238, 238);">28.6</td>
+    </tr>
+
+    <tr>
+        <td style="color: red; font-weight: bold; font-size: 25px">19</td>
+        <td>Vasco</td>
+        <td style="background-color: rgb(238, 238, 238);"><strong>5</strong></td>
+        <td>7</td>
+        <td style="background-color: rgb(238, 238, 238);">1</td>
+        <td>2</td>
+        <td style="background-color: rgb(238, 238, 238);">4</td>
+        <td>5</td>
+        <td style="background-color: rgb(238, 238, 238);">12</td>
+        <td>-7</td>
+        <td style="background-color: rgb(238, 238, 238);">23.8</td>
+        
+    </tr>
+
+    <tr>
+        <td style="color: red; font-weight: bold; font-size: 25px">20</td>
+        <td>Atlético-GO</td>
+        <td style="background-color: rgb(238, 238, 238);"><strong>1</strong></td>
+        <td>6</td>
+        <td style="background-color: rgb(238, 238, 238);">0</td>
+        <td>1</td>
+        <td style="background-color: rgb(238, 238, 238);">5</td>
+        <td>3</td>
+        <td style="background-color: rgb(238, 238, 238);">9</td>
+        <td>-6</td>
+        <td style="background-color: rgb(238, 238, 238);">5.6</td>
+    </tr>
+
+    </table>
+    
+</body>
+</html>
+
+
+ tr, td{
+    border-bottom: 1px solid black;
+    border-collapse: collapse ;
+    padding: 12px;
+    width: 30px;
+    
+}
+
+table{
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+
+
+
