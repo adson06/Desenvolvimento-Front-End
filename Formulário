@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="script.css">
+    <title>Document</title>
+</head>
+<body>
+    
+    <p>Nome, sexo e escolaridade</p>
+    <table>
+        <tr>
+            <td>Nome:</td>
+            <td>
+                <form>
+                    <input type="text" id="fname" name="fname"><br>
+                </form>
+            </td>
+        </tr>
+        <tr>
+            <td>Sexo:</td>
+            <td>
+            <form>
+                <input type="radio" name="fem" value="feminino">Feminino
+                <input type="radio" name="masc" value="masculino">Masculino
+            </form>
+            </td>
+        </tr>
+        <tr>
+            <tr>
+                <td colspan="2">Escolaridade: <select name="escola">
+                    <option value="1">1 Grau</option>
+                    <option value="2">2 Grau</option>
+                    <option value="superior">Superior</option>
+                </select></td>
+            </tr>
+        </tr>
+    </table>
+<br><br>
+
+
+<p>Cartao de credito</p>
+    <table>
+        <tr>
+            <td>Numero:</td>
+            <td>
+                <form>
+                    <input type="text" id="fname" name="fname"><br>
+                </form>
+            </td>
+        </tr>
+        <tr>
+            <td>Bandeira:</td>
+            <td class="width">
+                <form>
+                <input type="radio" name="img" value="img1">
+                <input type="image" src="visa.jfif" alt="visa" height="70px" width="120px">
+<br>
+                <input type="radio" name="img" value="img2">
+                <input type="image" src="Mastercard-Simbolo.jpg" alt="visa" height="70px" width="120px">
+                
+<br>
+                <input type="radio" name="img" value="img3">
+                <input type="image" src="american express.png" alt="visa" height="70px" width="120px">>
+            </form>
+
+            </td>
+        </tr>
+        <tr>
+            <td>Validade:</td>
+            <td>
+                    <select name="escola">
+                        <option value="1">2012</option>
+                        <option value="2">2013</option>
+                        <option value="3">2014</option>
+                    </select>
+            </td>
+        </tr>
+    </table>
+
+</body>
+</html>
+
+
+table, tr, td{
+    border: 1px solid;
+  
+    padding: 10px;
+}
